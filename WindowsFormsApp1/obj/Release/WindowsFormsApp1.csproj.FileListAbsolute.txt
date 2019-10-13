@@ -1,0 +1,11 @@
+G:\WinFormApp (Сентябрь)\Authorization\WindowsFormsApp1\bin\Release\Login.exe.config
+G:\WinFormApp (Сентябрь)\Authorization\WindowsFormsApp1\bin\Release\Login.exe
+G:\WinFormApp (Сентябрь)\Authorization\WindowsFormsApp1\bin\Release\Login.pdb
+G:\WinFormApp (Сентябрь)\Authorization\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\WinFormApp (Сентябрь)\Authorization\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+G:\WinFormApp (Сентябрь)\Authorization\WindowsFormsApp1\obj\Release\Login.Properties.Resources.resources
+G:\WinFormApp (Сентябрь)\Authorization\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\WinFormApp (Сентябрь)\Authorization\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\WinFormApp (Сентябрь)\Authorization\WindowsFormsApp1\obj\Release\Login.exe
+G:\WinFormApp (Сентябрь)\Authorization\WindowsFormsApp1\obj\Release\Login.pdb
+G:\WinFormApp (Сентябрь)\Authorization\WindowsFormsApp1\obj\Release\Login.Form2.resources

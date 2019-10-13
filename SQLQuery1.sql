@@ -1,0 +1,15 @@
+USE dbRBT
+GO
+CREATE TABLE db_my
+(
+	Id INT IDENTITY PRIMARY KEY,
+	[Имя] NVARCHAR(MAX) NOT NULL,
+	[Фамилия] NVARCHAR(MAX) NOT NULL,
+	[Пол] NVARCHAR(MAX) NOT NULL,
+	[Email] VARCHAR(MAX) NOT NULL,
+	[Имя_пользователя] NVARCHAR(MAX) NOT NULL,
+	[Пароль] VARCHAR(MAX) NOT NULL
+)
+USE dbRBT
+GO
+select * from dB_my;
